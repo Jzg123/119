@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="about">images/about.png</file>
+        <file alias="exit">images/exit.png</file>
+        <file alias="find">images/find.png</file>
+        <file alias="new">images/new.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="replace">images/replace.png</file>
+        <file alias="save">images/save.png</file>
+        <file alias="another_save">images/another_save .png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
